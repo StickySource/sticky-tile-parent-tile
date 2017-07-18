@@ -27,6 +27,7 @@
         <configuration>
           <tiles>
             <tile>net.stickycode.tile:sticky-tile-release:[1,2)</tile>
+            <tile>net.stickycode.tile:sticky-tile-upload-nexus:[1,2)</tile>
           </tiles>
         </configuration>
       </plugin>
