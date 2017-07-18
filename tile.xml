@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+  <tiles>
+    <tile>net.stickycode.tile:sticky-tile-release:[1,2)</tile>
+  </tiles>
+</project>
