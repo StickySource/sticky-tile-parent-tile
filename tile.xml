@@ -2,5 +2,6 @@
 <project>
   <tiles>
     <tile>net.stickycode.tile:sticky-tile-release:[1,2)</tile>
+    <tile>net.stickycode.tile:sticky-tile-jar:[1,2)</tile>
   </tiles>
 </project>
